@@ -1,0 +1,31 @@
+Quarters Allotment Management System
+
+
+Software Requirements
+XAMPP server
+Language Used
+Front End(User Interface) HTML 5,AJAX,JQUERY,JAVASCRIPT,BOOTSTRAP
+Server Language PHP 5.5
+Backe End MYSQL
+How to run Project
+1. Download and Unzip Project in Your root directory(xampp/htdocs)
+
+Database Configuration
+Open phpmyadmin
+
+ 
+Create Blank Database "qtms"
+
+Import database "qtms.sql" (available inside project/database folder)
+
+Run Project
+Open Your browser and type "localhost/qtms"
+
+Admin Login Details
+Username: admin
+Password: admin
+
+Employee Login Details
+Employeeid :123(When retrieving your password)
+Username: nickholous@gmail.com
+Password: 1234
